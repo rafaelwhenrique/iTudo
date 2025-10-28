@@ -17,6 +17,7 @@ Sistema completo de e-commerce para Hortifruti desenvolvido como trabalho acadê
 - **UML** - Diagramas de objeto e casos de uso
 
 ## 📁 Estrutura do Projeto
+```
 hortifruti/
 │
 ├── index.html # Página principal
@@ -30,7 +31,7 @@ hortifruti/
 └── assets/
 ├── images/ # Imagens e recursos visuais
 └── js/ # Scripts JavaScript
-
+```
 ## 🎯 Funcionalidades Implementadas
 
 ### Catálogo de Produtos
