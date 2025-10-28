@@ -13,8 +13,7 @@ Sistema completo de e-commerce para Hortifruti desenvolvido como trabalho acadê
 - **Font Awesome 6.4.0** - Ícones
 
 ### Backend (Estrutura)
-- **MySQL** - Banco de dados relacional
-- **UML** - Diagramas de objeto e casos de uso
+- **UML** - Diagramas de objeto
 
 ## 📁 Estrutura do Projeto
 ```
@@ -22,15 +21,10 @@ hortifruti/
 │
 ├── index.html # Página principal
 ├── styleItudo.css # Estilos customizados
-├── diagramas/ # Documentação de diagramas
+├── diagramas # Documentação de diagramas
 │ ├── diagrama_objetos.pdf
-│ └── diagrama_classes.pdf
 ├── docs/ # Documentação do projeto
 │ ├── documentacao_abnt.docx
-│ └── cronograma.pdf
-└── assets/
-├── images/ # Imagens e recursos visuais
-└── js/ # Scripts JavaScript
 ```
 ## 🎯 Funcionalidades Implementadas
 
